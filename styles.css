@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+}
+.ball {
+    background: black;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    margin: 20px auto;
+    border: 1px solid black;
+    text-align: center;
+
+}
+
+.answer {
+    background: #333333;
+    margin: 25% auto;
+    border: 1px solid #333333;
+    border-radius: 50%;
+    width: 50%;
+    height: 50%;
+}
+
+#text {
+    color: lightblue;
+    letter-spacing: 2px;
+    padding: 25px;
+}
+
+#eight {
+    color: white;
+    font-size: 5em;
+    margin: 20% auto;
+}
+
+button, input {
+
+}
+
+button:hover {
+
+}
