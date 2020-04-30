@@ -2,7 +2,7 @@ var button = document.getElementById("btn");
 var input = document.getElementById("input");
 var eight = document.getElementById("eight");
 var text = document.getElementById("text");
-var options=["yes", "no", "maybe"];
+var options=["yes", "maybe", "dream on", "definitely", "it will be so", "ask again later", "hell yeah", "no", "kitties, rainbows, and corgis"];
 
 button.addEventListener("click", function() {
     if (input.value <= 1) {
